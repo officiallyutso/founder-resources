@@ -492,6 +492,7 @@ This collection includes:
 - [Jasper](https://www.jasper.ai/)
 - [Lumen5](https://lumen5.com/)
 - [Captions](https://www.captions.ai/)
+-[Durofy](https://durofy.com/)
 
 ---
 
