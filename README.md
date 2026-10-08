@@ -990,6 +990,7 @@ This collection includes:
 - [Launching Next](https://www.launchingnext.com/)
 - [Startup Ranking](https://www.startupranking.com/)
 - [AwesomeIndie](https://awesomeindie.com/)
+- [StarTap](https://startap.cc/) — Free directory where makers list websites and visitors support projects through a star-clicking game.
 
 ### Relevant Subreddits
 - [r/coding](https://www.reddit.com/r/coding/)
