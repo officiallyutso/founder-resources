@@ -990,6 +990,7 @@ This collection includes:
 - [Launching Next](https://www.launchingnext.com/)
 - [Startup Ranking](https://www.startupranking.com/)
 - [AwesomeIndie](https://awesomeindie.com/)
+- [Public Prompts](https://www.publicprompts.art/) - AI tools directory with paid, editorially reviewed owner submissions (US$19.99 once plus tax).
 
 ### Relevant Subreddits
 - [r/coding](https://www.reddit.com/r/coding/)
