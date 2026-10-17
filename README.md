@@ -252,6 +252,7 @@ This collection includes:
 - [Squadhelp](https://www.squadhelp.com/)
 
 ### Co-founders
+- [WhoOwnsWhat](https://whoownswhat.xyz/) — Record founder contributions and check access to key project accounts.
 - [Founders and Co-founders by Startups.com](https://www.startups.com/)
 - [How to Find a Co-Founder](https://www.howtofindacofounder.com/)
 - [How to Split Equity Among Co-founders](https://www.howtosplitco-founderequity.com/)
