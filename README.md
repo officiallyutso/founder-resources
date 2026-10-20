@@ -1115,3 +1115,5 @@ This repository is maintained by [Utso Sarkar](https://linkedin.com/in/utso) Spe
 **Made with ❤️ by [Utso Sarkar](https://x.com/AvinashSingh_20)**
 
 *Last Updated: May 2026*
+
+Maintained by Utso Sarkar.
