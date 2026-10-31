@@ -895,6 +895,7 @@ This collection includes:
 - [Hoverstat.es](https://www.hoverstat.es/)
 - [read.cv](https://read.cv/)
 - [Alternative.me](https://alternative.me/)
+- [MEDIAPRONET](https://mediapronet.com/)
 
 ### Blog & Article Platforms
 - [Medium](https://medium.com/)
