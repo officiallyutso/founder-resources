@@ -647,6 +647,7 @@ This collection includes:
 
 ### Marketing Resources
 - [150 Marketing Tools](https://www.150marketingtools.com/)
+- [Telegram Campaign Economics: A Formula-Ready Worksheet](https://gist.github.com/thinkpad2050/a0391e659d8244142a746ebf3021af33) - Editable worksheet for comparing Telegram campaign placements using CPM, CTR, cost per qualified conversation, CAC, and ROAS, with attribution and data-quality notes.
 
 ---
 
