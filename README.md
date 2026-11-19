@@ -317,6 +317,7 @@ This collection includes:
 
 ### Guides & Resources
 - [A Guide to Seed Fundraising - Y Combinator](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising)
+- [DDScore Due Diligence Example](https://www.ddscore.ai/example-report/) — A free worked example showing how to trace pitch-deck claims to supporting documents and identify questions for follow-up.
 - [Investopedia Article](https://www.investopedia.com/)
 - [Chagency Get Startup Funding](https://www.chagency.co.uk/getstartupfunding/)
 - [How to Raise Money](https://www.howtoraise.money/)
